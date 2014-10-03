@@ -59,5 +59,12 @@
 	<marker name ="Waterloo District Chapter" lat="" lng="" type="Office" address = "35 Belmont Ave W" address2="" city="Kitchener" state="ON" postal="N2M1L2"/>
 	<marker name ="Wellington County Chapter" lat="" lng="" type="Office" address="5420 Highway 6 North" address2="RR 5" city="Guelph" state="ON" postal="N1H6J2"/>
 	<marker name ="Markham/Stouffvile Chapter" lat="" lng="" type="Office" address="4630 Highway 7" address2="PO Box 64614" city="Unionville" state="ON" postal="L3R0M9"/>
-	
+	<marker name ="York South Chapter" lat="" lng="" type="Office" address="9350 Yonge Street" address2 ="PO Box 61528" city="Richmond Hill" state="ON" postal ="L4C0C9"/>
+	<marker name ="York North Chapter" lat="" lng="" type ="Office" address="7-17655 Leslie St" address2="" city="Newmarket" state="ON" postal="L3Y3E1"/>
+	<marker name ="Manitoba Division" lat="" lng="" type="Office" address="100-1465 Buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8"/>
+	<marker name ="Westman Chapter" lat="" lng="" type ="Office" address="Unit 5B-457 9th St" address2="" city="Brandon" state ="MB" postal ="R7A4A9"/>
+	<marker name ="South Central Chapter" lat="" lng="" type ="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8"/>
+	<marker name ="Parkland Chapter" lat="" lng="" type ="Office" address="Unit B1 101 1st Ave NW" address2="" city ="Dauphin" state="MB" postal="R7N1G8"/>
+	<marker name ="South East Chapter" lat="" lng="" type ="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8"/>
+	<marker name ="Saskatchewan Division" lat ="" lng="" type ="Office 
 </markers>
