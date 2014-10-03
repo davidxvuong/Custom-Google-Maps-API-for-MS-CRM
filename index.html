@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<script>
+			function setAddress(){
+				var address = document.getElementById('submit').value;
+				var url = "https://www.google.com/maps/embed/v1/place?key=AIzaSyCAJ7SmXOXjL8YKEC1mEMgBdtewvXaJrqk&q=" + address;
+				document.getElementById("google").setAttribute("src", url);
+			}
+		</script>
+	</head>
+
+	<body>
+		
+		Address: <input id = "submit" type ="text" name = "address"><br>
+		<button onclick = "setAddress()">Submit</button><br>
+		
+		<iframe src="https://mapsengine.google.com/map/embed?mid=zdspoyTBmQ48.khIlAlLkucyA" width="640" height="480"></iframe>
+	</body>
+</html>
+
+
