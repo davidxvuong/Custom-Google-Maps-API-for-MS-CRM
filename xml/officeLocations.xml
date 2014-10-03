@@ -1,17 +1,17 @@
 <markers>
-	<marker name = "National Office" lat = "43.654885" lng = "-79.389648" type = "Office" address ="250 Dundas St W" address2="Suite 500" city = "Toronto" state="ON" postal="M5T2Z5"/>
-	<marker name = "Atlantic Division" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "Annapolis Valley" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "Halifax Regional Municipality" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "Fredericton & Area Chapter" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "Restigouche" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "St. John's" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
-	<marker name = "Division du Québec" lat ="" lng ="" type ="Office" address ="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9"/>
-	<marker name = "Banline-Ouest" lat="" lng="" type ="Office" address="3869 boul. des Sources" address2="bureau 204" city ="Dollard-des-Ormeaux" state="QC" postal="H9B2A2"/>
-	<marker name = "Centre-du-Québec" lat="" lng="" type="Office" address ="450 Hériot" address2="" city ="Drummonville" state="QC" postal="J2B1B5"/>
-	<marker name = "Côte-Nord" lat="" lng="" type ="Office" address="652, av. DeQuen" address2="" city="Sept-Iles" state="QC" postal="G4R2R5"/>
-	<marker name = "Estrie-Sherbrooke" lat="" lng="" type ="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city ="Montréal" state="QC" postal ="H3A1B9"/>
-	<marker name = "Granby et régions" lat="" lng="" type ="Office" address="939 Cowie" address2="" city="Granby" state="QC" postal="J2J1A3"/>
+	<marker name ="National Office" lat ="43.654885" lng ="-79.389648" type ="Office" address ="250 Dundas St W" address2="Suite 500" city = "Toronto" state="ON" postal="M5T2Z5"/>
+	<marker name ="Atlantic Division" lat ="44.699138" lng ="-63.585666" type ="Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="Annapolis Valley" lat ="44.699138" lng ="-63.585666" type ="Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="Halifax Regional Municipality" lat ="44.699138" lng ="-63.585666" type ="Office" address = "109 Ilsley Avenue" address2 ="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="Fredericton and Area Chapter" lat ="44.699138" lng ="-63.585666" type ="Office" address ="109 Ilsley Avenue" address2 ="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="Restigouche" lat ="44.699138" lng ="-63.585666" type ="Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="St. John's" lat ="44.699138" lng ="-63.585666" type ="Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8"/>
+	<marker name ="Division du Québec" lat ="" lng ="" type ="Office" address ="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9"/>
+	<marker name ="Banline-Ouest" lat="" lng="" type ="Office" address="3869 boul. des Sources" address2="bureau 204" city ="Dollard-des-Ormeaux" state="QC" postal="H9B2A2"/>
+	<marker name ="Centre-du-Québec" lat="" lng="" type="Office" address ="450 Hériot" address2="" city ="Drummonville" state="QC" postal="J2B1B5"/>
+	<marker name ="Côte-Nord" lat="" lng="" type ="Office" address="652, av. DeQuen" address2="" city="Sept-Iles" state="QC" postal="G4R2R5"/>
+	<marker name ="Estrie-Sherbrooke" lat="" lng="" type ="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city ="Montréal" state="QC" postal ="H3A1B9"/>
+	<marker name ="Granby et régions" lat="" lng="" type ="Office" address="939 Cowie" address2="" city="Granby" state="QC" postal="J2J1A3"/>
 	<marker name ="Lac-St-Jean" lat="" lng="" type="Office" address="1230, boul. Wallberg" address2="Bureau 307" city ="Dolbeau-Mistassini" state="QC" postal="G8L1H2"/>
 	<marker name ="Laurentides/Hautes-Laurentides" lat="" lng="" type ="Office" address="416 St-Georges" address2="" city="St-Jérôme" state="QC" postal="J7Z5B1"/>
 	<marker name ="Laval" lat="" lng="" type="Office" address="387, boul. des Prairies" address2="Bureau 210" city="Laval" state ="QC" postal="H7N5B1"/>
@@ -30,18 +30,18 @@
 	<marker name ="Chaudière-Appalaches" lat="" lng="" type ="Office" address="104-4060 boul de la Rive-Sud" address2="" city="Lévis" state="QC" postal="G6W6N2"/>
 	<marker name ="Est de Montréal" lat="" lng="" type="Office" address="12125 Notre-Dame Est" address2="B. 309" city="Montréal" state="QC" postal="H1B2Y9"/>
 	<marker name ="Ontario and Nunavut Division" lat="" lng="" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5"/>
-	<marker name ="Brampton & Caledon Chapter" lat="" lng="" type="Office" address="40 Finchgate Blvd" address2="Suite 106" city="Brampton" state="ON" postal="L6T3J1"/>
+	<marker name ="Brampton and Caledon Chapter" lat="" lng="" type="Office" address="40 Finchgate Blvd" address2="Suite 106" city="Brampton" state="ON" postal="L6T3J1"/>
 	<marker name ="Bruce County Unit" lat="" lng ="" type="Office" address="38 Birchwood Avenue" address2="" city="Tiverton" state="ON" postal="N0G2T0"/>
 	<marker name ="Cambridge Unit" lat="" lng="" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5"/>
 	<marker name ="Timmins Chapter" lat="" lng="" type="Office" address="273 Third Ave Suite 401A" address2="PO Box 1101" city="Timmins" state ="ON" postal="P4N7H9"/>
-	<marker name ="Cornwall & District Chapter" lat="" lng="" type="Office" address="1-275 Boundary Rd" address2="Attn: Karen Torrie-Racine" city="Cornwall" state="ON" postal="K6H6K8"/>
+	<marker name ="Cornwall and District Chapter" lat="" lng="" type="Office" address="1-275 Boundary Rd" address2="Attn: Karen Torrie-Racine" city="Cornwall" state="ON" postal="K6H6K8"/>
 	<marker name ="Durham regional Chapter" lat="" lng="" type="Office" address="6-400 Dundas St W" address2="" city="Whitby" state="ON" postal="L1N2M7"/>
 	<marker name ="Windsor-Essex Chapter" lat="" lng="" type="Office" address="1168 Drouillard Rd" address2="Suite A" city="Windsor" state="ON" postal="N8Y2R1"/>
 	<marker name ="Halton Regional Chapter" lat="" lng="" type="Office" address="2016 Victoria Avenue" address2="" city="Burlington" state="ON" postal="L7R1R4"/>
 	<marker name ="Hamilton Chapter" lat="" lng="" type="Office" address="94 Cannon Street" address2="Unit 5" city="Hamilton" state="ON" postal="L8R2B6"/>
 	<marker name ="Hastings County Chapter" lat="" lng="" type="Office" address ="390 North Front Street" address2="Box 23132" city ="Belleville" state ="ON" postal ="K8P3E1"/>
 	<marker name ="Kapusking Unit" lat="" lng="" type="Office" address="115 Brunelle Road North" address2="" city="Kapuskasing" state="ON" postal="P5N2M1"/>
-	<marker name = "Forntenac, Lennox & Addington Chapter" lat="" lng="" type="Office" address="637 Norris Court" address2="Unit 3" city ="Kingston" state="ON" postal="K7P2R9"/>
+	<marker name ="Forntenac, Lennox and Addington Chapter" lat="" lng="" type="Office" address="637 Norris Court" address2="Unit 3" city ="Kingston" state="ON" postal="K7P2R9"/>
 	<marker name ="Leeds Grenville Chapter" lat="" lng="" type="Office" address="102-51 King Street East" address2="P.O. Box 815" city="Brockville" state="ON" postal ="K6V2R9"/>
 	<marker name ="London/Middlesex Chapter" lat="" lng="" type ="Office" address="21 Grosvenor St" address2="Rm: W018A" city="London" state="ON" postal="N6A4V2"/>
 	<marker name ="Toronto Chapter" lat ="" lng="" type="Office" address ="250 Dundas St W" address2 ="Suite 500" city="Toronto" state ="ON" postal ="M5T2Z5"/>
@@ -88,6 +88,6 @@
 	<marker name ="Lower Mainland Chapter" lat="" lng="" type ="Office" address ="1103-4720 Kingsway" address2="Metrotower II" city ="Burnaby" state ="BC" postal ="V5H4N2"/>
 	<marker name ="South Okanagan Chapter" lat ="" lng ="" type ="Office" address ="3373 Shaha Lake Road" address2="" city ="Penticton" state ="BC" postal ="V2A6G6"/>
 	<marker name ="Prince George Chapter" lat ="" lng="" type ="Office" address="105 490 Quebec St" address2="" city ="Prince George" state= "BC" postal ="V2L5N5"/>
-	<marker name ="Central Island Chapter ="lat="" lng="" type ="Office" address="702-530 5th St" address2="Box 390406" city ="Nanaimo" state="BC" postal ="V9R7B7"/>
+	<marker name ="Central Island Chapter" lat="" lng="" type ="Office" address="702-530 5th St" address2="Box 390406" city ="Nanaimo" state="BC" postal ="V9R7B7"/>
 	<marker name ="South and Central Vancouver Island Chapter" lat ="" lng ="" type ="Office" address="1004 North Park St" address2="" city ="Victoria" state="BC" postal ="V8T1C6"/>
 </markers>
