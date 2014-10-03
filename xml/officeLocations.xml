@@ -1,0 +1,12 @@
+<markers>
+	<marker name = "National Office" lat = "43.654885" lng = "-79.389648" type = "Office" address ="250 Dundas St W" address2="Suite 500" city = "Toronto" state="ON" postal="M5T2Z5"/>
+	<marker name = "Atlantic Division" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "Annapolis Valley" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "Halifax Regional Municipality" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "Fredericton & Area Chapter" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "Restigouche" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "St. John's" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
+	<marker name = "Division du Québec" lat ="" lng ="" type ="Office" address ="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9"/>
+	<marker name = "Burin Peninsula Chapter" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="" city="Dartmouth" state=NS" postal="B3B1S8"/>
+
+</markers>
