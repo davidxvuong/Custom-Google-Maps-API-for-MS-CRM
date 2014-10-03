@@ -7,6 +7,25 @@
 	<marker name = "Restigouche" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
 	<marker name = "St. John's" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state=NS" postal="B3B1S8"/>
 	<marker name = "Division du Québec" lat ="" lng ="" type ="Office" address ="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9"/>
-	<marker name = "Burin Peninsula Chapter" lat = "44.699138" lng = "-63.585666" type = "Office" address = "109 Ilsley Avenue" address2="" city="Dartmouth" state=NS" postal="B3B1S8"/>
-
+	<marker name = "Banline-Ouest" lat="" lng="" type ="Office" address="3869 boul. des Sources" address2="bureau 204" city ="Dollard-des-Ormeaux" state="QC" postal="H9B2A2"/>
+	<marker name = "Centre-du-Québec" lat="" lng="" type="Office" address ="450 Hériot" address2="" city ="Drummonville" state="QC" postal="J2B1B5"/>
+	<marker name = "Côte-Nord" lat="" lng="" type ="Office" address="652, av. DeQuen" address2="" city="Sept-Iles" state="QC" postal="G4R2R5"/>
+	<marker name = "Estrie-Sherbrooke" lat="" lng="" type ="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city ="Montréal" state="QC" postal ="H3A1B9"/>
+	<marker name = "Granby et régions" lat="" lng="" type ="Office" address="939 Cowie" address2="" city="Granby" state="QC" postal="J2J1A3"/>
+	<marker name ="Lac-St-Jean" lat="" lng="" type="Office" address="1230, boul. Wallberg" address2="Bureau 307" city ="Dolbeau-Mistassini" state="QC" postal="G8L1H2"/>
+	<marker name ="Laurentides/Hautes-Laurentides" lat="" lng="" type ="Office" address="416 St-Georges" address2="" city="St-Jérôme" state="QC" postal="J7Z5B1"/>
+	<marker name ="Laval" lat="" lng="" type="Office" address="387, boul. des Prairies" address2="Bureau 210" city="Laval" state ="QC" postal="H7N5B1"/>
+	<marker name ="Manicouagan" lat="" lng ="" type ="Office"  address ="217-A boulevard LaSalle" address2="" city="Baie-Comeau" state="QC" postal="G4Z1S7"/>
+	<marker name ="Mauricie" lat="" lng ="" type ="Office" address="109, rue Brunelle" address2="" city ="Trois-Rivières" state ="QC" postal ="G8T6A3"/>
+	<marker name ="Montérégie" lat="" lng ="" type ="Office" address="1705 Victoria" address2="Bureau C-121" city="St-Lambert" state ="QC" postal="J4R2T7"/>
+	<marker name ="Montréal" lat ="" lng ="" type ="Office" address="550, rue Sherbrooke Quest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal ="J4R2T7"/>
+	<marker name ="Outaouais" lat ="" lng ="" type ="Office" address="10, rue Noël" address2="Bureau 109" city ="Gatineau" state="QC" postal ="J8Z3G5"/>
+	<marker name ="Région-de-Québec" lat="" lng="" type ="Office" address="245 rue Soumande" address2="Bureau 202" city="Quebec" state="QC" postal="G1M3H6"/>
+	<marker name ="Lanaudière" lat ="" lng ="" type ="Office" address =" 2500 boul. Mascouche" address2="Bureau 221" city ="Mascouche" state="QC" postal="J7K0H5"/>
+	<marker name ="Rouyn-Noradnda" lat="" lng ="" type ="Office" address="Casier Postal 1001" address2="" city ="Montbeillard" state="QC" postal ="J9X5C8"/>
+	<marker name ="Saguenay" lat="" lng="" type ="Office" address="150, rue Pinel" address2="Pavillon Roland-Saucier" city="Chicoutimi" state="QC" postal="G7G3N8"/>
+	<marker name ="Saint-Hyacinthe - Acton" lat="" lng="" type="Office" address="16675 Desrochers" address2="" city ="Saint-Hyacinthe" state="QC" postal="J2T3K3"/>
+	<marker name ="Sorel-Tracy" lat="" lng="" type ="Office" address="189, rue Prince" address2="Bureau 211" city="Sorel" state="QC" postal="J3P4K6"/>
+	<marker name ="Bas-Saint-Laurent" lat="" lng="" type="Office" address="C.P. 1282, Succursale A" address2="" city="Rimouski" state="QC" postal="G5L8M2"/>
+	<marker name ="
 </markers>
