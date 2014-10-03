@@ -45,5 +45,19 @@
 	<marker name ="Leeds Grenville Chapter" lat="" lng="" type="Office" address="102-51 King Street East" address2="P.O. Box 815" city="Brockville" state="ON" postal ="K6V2R9"/>
 	<marker name ="London/Middlesex Chapter" lat="" lng="" type ="Office" address="21 Grosvenor St" address2="Rm: W018A" city="London" state="ON" postal="N6A4V2"/>
 	<marker name ="Toronto Chapter" lat ="" lng="" type="Office" address ="250 Dundas St W" address2 ="Suite 500" city="Toronto" state ="ON" postal ="M5T2Z5"/>
+	<marker name ="Mississauga Chapter" lat="" lng="" type="Office" address="875 Enola Avenue" address2="" city="Mississauga" state ="ON" postal ="L5G4R1"/>
+	<marker name ="Niagara LAMS" lat="" lng="" type="Office" address ="250 Dundas St W" address2="Suite 500" city ="Toronto" state="ON" postal ="M5T1Z5"/>
+	<marker name ="Ottawa Chapter" lat="" lng="" type="Office" address="1826 Woodward Drive" address2="" city="Ottawa" state="ON" postal="K2C0P7"/>
+	<marker name ="Peterborough Chapter" lat="" lng="" type="Office" address="610 Parkhill Road West" address2="" city="Peterborough" state="ON" postal="K9J6N6"/>
+	<marker name ="Prince Edward County Unit" lat="" lng="" type ="Office" address="1207 Northport Rd., RR#2" address2="" city="Picton" state="ON" postal="K0K2T0"/>
+	<marker name ="Sarnia Lamboton Chapter" lat="" lng="" type="Office" address="420 East Street N" address2="" city="Sarnia" state="ON" postal="N7T6Y5"/>
+	<marker name ="Scarborough Chapter" lat="" lng="" type ="Office" address ="25 Crouse Road" address2="PO Box 6072" city="Scarborough" state="ON" postal="M1R5P8"/>
+	<marker name ="Simcoe County Chapter" lat="" lng ="" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5"/>
+	<marker name ="Niagara Peninsula Chapter of Hope" lat="" lng="" type="Office" address="479D Carleton Street" address2="" city ="St. Catherine's" state="ON" postal="L2M4Y6"/>
+	<marker name ="Sudbury Chapter" lat ="" lng="" type="Office" address="2750 Bancroft Drive" address2="" city="Sudbury" state ="ON" postal ="P3B1T9"/>
+	<marker name ="Thunder Bay Chapter" lat="" lng="" type="Office" address="501-101 N. Synidcate Avenue" address2="Chapples Building, fifth floor" city ="Thunder Bay" state="ON" postal="P7C3V4"/>
+	<marker name ="Waterloo District Chapter" lat="" lng="" type="Office" address = "35 Belmont Ave W" address2="" city="Kitchener" state="ON" postal="N2M1L2"/>
+	<marker name ="Wellington County Chapter" lat="" lng="" type="Office" address="5420 Highway 6 North" address2="RR 5" city="Guelph" state="ON" postal="N1H6J2"/>
+	<marker name ="Markham/Stouffvile Chapter" lat="" lng="" type="Office" address="4630 Highway 7" address2="PO Box 64614" city="Unionville" state="ON" postal="L3R0M9"/>
 	
 </markers>
