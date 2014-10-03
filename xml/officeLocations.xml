@@ -27,5 +27,23 @@
 	<marker name ="Saint-Hyacinthe - Acton" lat="" lng="" type="Office" address="16675 Desrochers" address2="" city ="Saint-Hyacinthe" state="QC" postal="J2T3K3"/>
 	<marker name ="Sorel-Tracy" lat="" lng="" type ="Office" address="189, rue Prince" address2="Bureau 211" city="Sorel" state="QC" postal="J3P4K6"/>
 	<marker name ="Bas-Saint-Laurent" lat="" lng="" type="Office" address="C.P. 1282, Succursale A" address2="" city="Rimouski" state="QC" postal="G5L8M2"/>
-	<marker name ="
+	<marker name ="Chaudière-Appalaches" lat="" lng="" type ="Office" address="104-4060 boul de la Rive-Sud" address2="" city="Lévis" state="QC" postal="G6W6N2"/>
+	<marker name ="Est de Montréal" lat="" lng="" type="Office" address="12125 Notre-Dame Est" address2="B. 309" city="Montréal" state="QC" postal="H1B2Y9"/>
+	<marker name ="Ontario and Nunavut Division" lat="" lng="" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5"/>
+	<marker name ="Brampton & Caledon Chapter" lat="" lng="" type="Office" address="40 Finchgate Blvd" address2="Suite 106" city="Brampton" state="ON" postal="L6T3J1"/>
+	<marker name ="Bruce County Unit" lat="" lng ="" type="Office" address="38 Birchwood Avenue" address2="" city="Tiverton" state="ON" postal="N0G2T0"/>
+	<marker name ="Cambridge Unit" lat="" lng="" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5"/>
+	<marker name ="Timmins Chapter" lat="" lng="" type="Office" address="273 Third Ave Suite 401A" address2="PO Box 1101" city="Timmins" state ="ON" postal="P4N7H9"/>
+	<marker name ="Cornwall & District Chapter" lat="" lng="" type="Office" address="1-275 Boundary Rd" address2="Attn: Karen Torrie-Racine" city="Cornwall" state="ON" postal="K6H6K8"/>
+	<marker name ="Durham regional Chapter" lat="" lng="" type="Office" address="6-400 Dundas St W" address2="" city="Whitby" state="ON" postal="L1N2M7"/>
+	<marker name ="Windsor-Essex Chapter" lat="" lng="" type="Office" address="1168 Drouillard Rd" address2="Suite A" city="Windsor" state="ON" postal="N8Y2R1"/>
+	<marker name ="Halton Regional Chapter" lat="" lng="" type="Office" address="2016 Victoria Avenue" address2="" city="Burlington" state="ON" postal="L7R1R4"/>
+	<marker name ="Hamilton Chapter" lat="" lng="" type="Office" address="94 Cannon Street" address2="Unit 5" city="Hamilton" state="ON" postal="L8R2B6"/>
+	<marker name ="Hastings County Chapter" lat="" lng="" type="Office" address ="390 North Front Street" address2="Box 23132" city ="Belleville" state ="ON" postal ="K8P3E1"/>
+	<marker name ="Kapusking Unit" lat="" lng="" type="Office" address="115 Brunelle Road North" address2="" city="Kapuskasing" state="ON" postal="P5N2M1"/>
+	<marker name = "Forntenac, Lennox & Addington Chapter" lat="" lng="" type="Office" address="637 Norris Court" address2="Unit 3" city ="Kingston" state="ON" postal="K7P2R9"/>
+	<marker name ="Leeds Grenville Chapter" lat="" lng="" type="Office" address="102-51 King Street East" address2="P.O. Box 815" city="Brockville" state="ON" postal ="K6V2R9"/>
+	<marker name ="London/Middlesex Chapter" lat="" lng="" type ="Office" address="21 Grosvenor St" address2="Rm: W018A" city="London" state="ON" postal="N6A4V2"/>
+	<marker name ="Toronto Chapter" lat ="" lng="" type="Office" address ="250 Dundas St W" address2 ="Suite 500" city="Toronto" state ="ON" postal ="M5T2Z5"/>
+	
 </markers>
