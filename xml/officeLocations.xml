@@ -66,5 +66,28 @@
 	<marker name ="South Central Chapter" lat="" lng="" type ="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8"/>
 	<marker name ="Parkland Chapter" lat="" lng="" type ="Office" address="Unit B1 101 1st Ave NW" address2="" city ="Dauphin" state="MB" postal="R7N1G8"/>
 	<marker name ="South East Chapter" lat="" lng="" type ="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8"/>
-	<marker name ="Saskatchewan Division" lat ="" lng="" type ="Office 
+	<marker name ="Saskatchewan Division" lat ="" lng="" type ="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2"/>
+	<marker name ="Battleford Chapter" lat="" lng="" type ="Office" address="106-1442 102nd St" address2="" city="North battleford" state="SK" postal="S9A1G7"/>
+	<marker name ="Regina Chapter" lat ="" lng="" type ="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2"/>
+	<marker name ="Saskatoon Chapter" lat ="" lng="" type ="Office" address="Bay22 - 1738 Quebec Ave" address2="" city= "Saskatoon" state ="SK" postal="S7K1V9"/>
+	<marker name ="Alberta and Northwest Territories Division" lat="" lng="" type="Office" address="150-9405 50 St" address2="" city="Edmonton" state="AB" postal ="T6B2T4"/>
+	<marker name ="Lakeland Regional Office" lat="" lng="" type="Office" address="110-464745 45 Avenue" address2="" city="St. Paul" state="AB" postal ="T0A3A0"/>
+	<marker name ="West Yellowhead Regional Office" lat="" lng="" type="Office" address="821 Switzer Drive" address2="" city="Hinton" state="AB" postal="T7V1V1"/>
+	<marker name ="Calgary and Area Chapter" lat="" lng="" type="Office" address="150-110 Quarry Park Blvd SE" address2="" city="Calgary" state="AB" postal="T2C3G3"/>
+	<marker name ="Central Alberta Chapter" lat ="" lng="" type ="Office" address="105 4807 50 st" address2="" city="Red Deer" state ="AB" postal="T4N4A5"/>
+	<marker name ="Edmonton and Capital Region Chapter" lat="" lng="" type ="Office" address="150-9405 50 St" address2="" city ="Edmonton" state="AB" postal ="T6B2T4"/>
+	<marker name ="Lethbridge and District Chapter" lat="" lng="" type ="Office" address="724 13 St N" address2="" city ="Lethbridge" state="AB" postal="T1H2T1"/>
+	<marker name ="Lloydminster Chapter" lat="" lng="" type ="Office" address="4419 52 Ave" address2="" city ="Lloydminster" state="AB" postal="T9V0Y8"/>
+	<marker name ="Southeastern Alberta Chapter" lat="" lng="" type ="Office" address="101 1201 Kingsway Avenue SE" city ="Medicine Hat" state="AB" postal ="T1A2Y2"/>
+	<marker name ="South Peace Regional Office" lat="" lng="" type ="Office" address="Genland Building" address2="103-10901 100 St" city ="Grande Prairie" state="AB"  postal ="T8V2M9"/>
+	<marker name ="BC and Yukon Division" lat="" lng="" type ="Office" address="1103-4720 Kingsway" address2="Metrotower II" city="Burnaby" state="BC" postal ="V5H4N2"/>
+	<marker name ="South Vancouver Island" lat="" lng="" type ="Office" address="1004 North Park St" address2="" city="Victoria" state="BC" postal ="V8T1C6"/>
+	<marker name ="North Peace Chapter" lat="" lng ="" type ="Office" address="1501-4330 Kingsway" address2="" city ="Burnaby" state="BC" postal ="V5H4G7"/>
+	<marker name ="Kamloops and Area Chapter" lat="" lng ="" type ="Office" address="1-273 Seymour St" address2="" city ="Kamloops" state="BC" postal ="V2C2E7"/>
+	<marker name ="Okanagan Chapter" lat="" lng="" type ="Office" address="230-1855 Kirschner Rd" address2="" city ="Kelowna" state="BC" postal ="V1Y4N7"/>
+	<marker name ="Lower Mainland Chapter" lat="" lng="" type ="Office" address ="1103-4720 Kingsway" address2="Metrotower II" city ="Burnaby" state ="BC" postal ="V5H4N2"/>
+	<marker name ="South Okanagan Chapter" lat ="" lng ="" type ="Office" address ="3373 Shaha Lake Road" address2="" city ="Penticton" state ="BC" postal ="V2A6G6"/>
+	<marker name ="Prince George Chapter" lat ="" lng="" type ="Office" address="105 490 Quebec St" address2="" city ="Prince George" state= "BC" postal ="V2L5N5"/>
+	<marker name ="Central Island Chapter ="lat="" lng="" type ="Office" address="702-530 5th St" address2="Box 390406" city ="Nanaimo" state="BC" postal ="V9R7B7"/>
+	<marker name ="South and Central Vancouver Island Chapter" lat ="" lng ="" type ="Office" address="1004 North Park St" address2="" city ="Victoria" state="BC" postal ="V8T1C6"/>
 </markers>
