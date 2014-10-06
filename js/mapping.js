@@ -8,6 +8,15 @@ $(document).ready(function(){
 	var point = new google.maps.LatLng(43.703106, -79.290699);
 	var marker = new google.maps.Marker(point);
 	
+	/* var letter = "A";
+	var baseIcon = new google.maps.Icon();
+	baseIcon.shadow = "http://www.google.com/mapfiles/shadow50.png";
+	baseIcon.iconSize = new google.maps.Size(20,34);
+	baseIcon.shadowSize = new google.maps.Size(37, 34);
+	baseIcon.iconAnchor = new google.maps.Point(9, 34);
+	baseIcon.infoWindowAnchor = new google.maps.Point(9, 2);
+	baseIcon.infoShadowAnchor = new google.maps.Point(18,25); */
+	
 	marker.setMap(map);
 	markers[i] = marker;
 	
