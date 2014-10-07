@@ -1,8 +1,7 @@
-//Global variable declarations
-
-//parsing xml data locatons into array
 window.onload = function load(){
+	//retrieve data from xml locations fileCreatedDate
 	var locations = new Array();
+	
 	$.ajax({
 		type: "GET",
 		url: "officeLocations.xml",
@@ -26,6 +25,7 @@ window.onload = function load(){
 		}
 	});
 }
+
 
 //google.maps.event.addDomListener(window, 'load', initialize);
 
