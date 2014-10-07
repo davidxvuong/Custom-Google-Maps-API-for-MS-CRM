@@ -2,6 +2,7 @@
 var locations = [];
 var markers = [];
 var map;
+
 //retrieve office location information when the webpage is loaded
 window.onload = function load(){
 	$.ajax({
@@ -30,32 +31,54 @@ window.onload = function load(){
 			initialize();
 		}
 	});
-	
 }
 
 //set up google maps, updating map with MS Society Office locations
 function initialize() {
-	var myLatlng = new google.maps.LatLng(43.655583, -79.389665);
+	var myLatlng = new google.maps.LatLng(53.854234, -97.318359);
 	var mapOptions = {
         center:myLatlng,
-        zoom:15,
+        zoom:3,
         disableDefaultUI:true,
         mapTypeId:google.maps.MapTypeId.ROADMAP
     }
 	
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
-	var markerImage = 'images/workoffice.png';
+	var markerImage = 'images/pinother.png';
 	
 	for (var j = 0; j <= locations.length; j++){
-		markerFactory(locations[j], map, markerImage);
+		markerFactory(locations[j][1], locations[j][2], map, markerImage);
 	}
+	
+	console.log("MS Office mapping complete.");
  }
 
- function markerFactory(information, thisMap, image){
-	var latLng = new google.maps.LatLng(information[1], information[2]);
+ //A function that creates a marker on the map
+ function markerFactory(lat, lng, thisMap, image){
+	var latLng = new google.maps.LatLng(lat, lng);
 	var marker = new google.maps.Marker({
 		position: latLng,
 		map: thisMap,
 		icon: image,
+	});
+ }
+ 
+ //CRM inputs address
+ function submitAddress() {
+	var address = document.getElementById('input').value; //to be replaced by CRM information
+	var geocoder = new google.maps.Geocoder();
+	
+	geocoder.geocode({'address': address}, function(results, status){
+		if (status == google.maps.GeocoderStatus.OK) {
+			var lat = results[0].geometry.location.k;
+			var lng = results[0].geometry.location.B;
+			var markerImage = 'images/home.png';
+			map.setCenter(new google.maps.LatLng(lat, lng));
+			map.setZoom(12);
+			markerFactory(lat, lng, map, markerImage);
+		}
+		else {
+			alert("Error: " + status);
+		}
 	});
  }
