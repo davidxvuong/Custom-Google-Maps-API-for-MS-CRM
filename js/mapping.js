@@ -1,13 +1,27 @@
 window.onload = function load(){
 	//retrieve data from xml locations fileCreatedDate
-	var locations = [];
+	var locations = new Array();
 	
 	$.ajax({
 		type: "GET",
 		url: "officeLocations.xml",
 		dataType: "xml",
 		success: function(xml){
-			alert("DONE!");
+			var i = 0;
+			$(xml).find('marker').each(function(){
+				var name = $(this).attr('name');
+				var lat = $(this).attr('lat');
+				var lng = $(this).attr('lng');
+				var type = $(this).attr('type');
+				var address = $(this).attr('address');
+				var address2 = $(this).attr('address2');
+				var city = $(this).attr('city');
+				var state = $(this).attr('state');
+				var postal = $(this).attr('postal');
+				
+				locations[i] = new Array(name, lat, lng, type, address, address2, city, state, postal);
+				i++;
+			});
 		}
 	});
 }
