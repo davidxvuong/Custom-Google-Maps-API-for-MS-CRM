@@ -74,7 +74,6 @@ function initialize() {
  function submitAddress() {
 	var address = document.getElementById('input').value; //to be replaced by CRM information
 	var geocoder = new google.maps.Geocoder();
-	//locations[i] = new Array(name, lat, lng, address, type, address2, city, state, postal);
 
 	geocoder.geocode({'address': address}, function(results, status){
 		if (status == google.maps.GeocoderStatus.OK) {
