@@ -1,91 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <markers>
-  <marker name="National Office" lat="43.654885" lng="-79.389648" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
-  <marker name="Atlantic Division" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="Annapolis Valley" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="Halifax Regional Municipality" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="Fredericton and Area Chapter" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="Restigouche" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="St. John's" lat="44.699138" lng="-63.585666" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
-  <marker name="Division du Québec" lat="45.505966" lng="-73.572336" type="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
-  <marker name="Banline-Ouest" lat="45.490689" lng="-73.802874" type="Office" address="3869 boul. des Sources" address2="bureau 204" city="Dollard-des-Ormeaux" state="QC" postal="H9B2A2" />
-  <marker name="Centre-du-Québec" lat="45.880717" lng="-72.480645" type="Office" address="450 Hériot" address2="" city="Drummonville" state="QC" postal="J2B1B5" />
-  <marker name="Côte-Nord" lat="50.212269" lng="-66.388580" type="Office" address="652, av. DeQuen" address2="" city="Sept-Iles" state="QC" postal="G4R2R5" />
-  <marker name="Estrie-Sherbrooke" lat="45.505410" lng="-73.571713" type="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
-  <marker name="Granby et régions" lat="45.395045" lng="-72.765345" type="Office" address="939 Rue Cowie" address2="" city="Granby" state="QC" postal="J2J1A3" />
-  <marker name="Lac-St-Jean" lat="48.876219" lng="-72.226268" type="Office" address="1230, boul. Wallberg" address2="Bureau 307" city="Dolbeau-Mistassini" state="QC" postal="G8L1H2" />
-  <marker name="Laurentides/Hautes-Laurentides" lat="45.779309" lng="-74.002725" type="Office" address="416 St-Georges" address2="" city="St-Jérôme" state="QC" postal="J7Z5B1" />
-  <marker name="Laval" lat="45.546993" lng="-73.707801" type="Office" address="387, boul. des Prairies" address2="Bureau 210" city="Laval" state="QC" postal="H7N5B1" />
-  <marker name="Manicouagan" lat="49.215562" lng="-68.170585" type="Office" address="217-A boulevard LaSalle" address2="" city="Baie-Comeau" state="QC" postal="G4Z1S7" />
-  <marker name="Mauricie" lat="46.363620" lng="-72.512279" type="Office" address="109, rue Brunelle" address2="" city="Trois-Rivières" state="QC" postal="G8T6A3" />
-  <marker name="Montérégie" lat="45.484059" lng="-73.484421" type="Office" address="1705 Avenue Victoria" address2="Bureau C-121" city="St-Lambert" state="QC" postal="J4R2T7" />
-  <marker name="Montréal" lat="45.506019" lng="-73.572357" type="Office" address="550, rue Sherbrooke Quest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
-  <marker name="Outaouais" lat="45.467091" lng="-75.735538" type="Office" address="10, rue Noël" address2="Bureau 109" city="Gatineau" state="QC" postal="J8Z3G5"></marker>
-  <marker name="Région-de-Québec" lat="46.818246" lng="-71.253337" type="Office" address="245 rue Soumande" address2="Bureau 202" city="Quebec" state="QC" postal="G1M3H6" />
-  <marker name="Lanaudière" lat="45.745344" lng="-73.622041" type="Office" address=" 2500 boul. Mascouche" address2="Bureau 221" city="Mascouche" state="QC" postal="J7K0H5" />
-  <marker name="Saguenay" lat="48.449725" lng="-71.076415" type="Office" address="150, rue Pinel" address2="Pavillon Roland-Saucier" city="Chicoutimi" state="QC" postal="G7G3N8" />
-  <marker name="Saint-Hyacinthe - Acton" lat="45.620344" lng="-72.934104" type="Office" address="16675 Desrochers" address2="" city="Saint-Hyacinthe" state="QC" postal="J2T3K3" />
-  <marker name="Sorel-Tracy" lat="46.039919" lng="-73.112145" type="Office" address="189, rue du Prince" address2="Bureau 211" city="Sorel" state="QC" postal="J3P4K6" />
-  <marker name="Chaudière-Appalaches" lat="46.777368" lng="-71.195182" type="Office" address="104-4060 boul de la Rive-Sud" address2="" city="Lévis" state="QC" postal="G6W6N2" />
-  <marker name="Est de Montréal" lat="45.442373" lng="-73.647337" type="Office" address="12125 Notre-Dame Est" address2="B. 309" city="Montréal" state="QC" postal="H1B2Y9"></marker>
-  <marker name="Ontario and Nunavut Division" lat="43.654417" lng="-79.388372" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
-  <marker name="Brampton and Caledon Chapter" lat="43.728290" lng="-79.712157" type="Office" address="40 Finchgate Blvd" address2="Suite 106" city="Brampton" state="ON" postal="L6T3J1" />
-  <marker name="Bruce County Unit" lat="44.244540" lng="-81.607316" type="Office" address="38 Birchwood Avenue" address2="" city="Tiverton" state="ON" postal="N0G2T0" />
-  <marker name="Cambridge Unit" lat="43.655028" lng="-79.389622" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
-  <marker name="Timmins Chapter" lat="48.475044" lng="-81.327377" type="Office" address="273 Third Ave Suite 401A" address2="PO Box 1101" city="Timmins" state="ON" postal="P4N7H9" />
-  <marker name="Cornwall and District Chapter" lat="45.039434" lng="-74.673537" type="Office" address="1-275 Boundary Rd" address2="Attn: Karen Torrie-Racine" city="Cornwall" state="ON" postal="K6H6K8" />
-  <marker name="Durham regional Chapter" lat="43.879351" lng="-78.945896" type="Office" address="6-400 Dundas St W" address2="" city="Whitby" state="ON" postal="L1N2M7" />
-  <marker name="Windsor-Essex Chapter" lat="42.319000" lng="-82.998420" type="Office" address="1168 Drouillard Rd" address2="Suite A" city="Windsor" state="ON" postal="N8Y2R1" />
-  <marker name="Halton Regional Chapter" lat="43.330467" lng="-79.803191" type="Office" address="2016 Victoria Avenue" address2="" city="Burlington" state="ON" postal="L7R1R4"></marker>
-  <marker name="Hamilton Chapter" lat="43.262095" lng="-79.871829" type="Office" address="94 Cannon Street" address2="Unit 5" city="Hamilton" state="ON" postal="L8R2B6" />
-  <marker name="Hastings County Chapter" lat="44.188788" lng="-77.400692" type="Office" address="390 North Front Street" address2="Box 23132" city="Belleville" state="ON" postal="K8P3E1"></marker>
-  <marker name="Kapusking Unit" lat="49.419390" lng="-82.403345" type="Office" address="115 Brunelle Road North" address2="" city="Kapuskasing" state="ON" postal="P5N2M1"></marker>
-  <marker name="Forntenac, Lennox and Addington Chapter" lat="44.262977" lng="-76.568227" type="Office" address="637 Norris Court" address2="Unit 3" city="Kingston" state="ON" postal="K7P2R9" />
-  <marker name="Leeds Grenville Chapter" lat="44.591618" lng="-75.681087" type="Office" address="102-51 King Street East" address2="P.O. Box 815" city="Brockville" state="ON" postal="K6V2R9" />
-  <marker name="London/Middlesex Chapter" lat="42.999331" lng="-81.257115" type="Office" address="21 Grosvenor St" address2="Rm: W018A" city="London" state="ON" postal="N6A4V2" />
-  <marker name="Toronto Chapter" lat="43.654997" lng="-79.389600" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
-  <marker name="Mississauga Chapter" lat="43.563450" lng="-79.568915" type="Office" address="875 Enola Avenue" address2="" city="Mississauga" state="ON" postal="L5G4R1" />
-  <marker name="Niagara LAMS" lat="43.563450" lng="-79.568915" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T1Z5" />
-  <marker name="Ottawa Chapter" lat="45.368977" lng="-75.751910" type="Office" address="1826 Woodward Drive" address2="" city="Ottawa" state="ON" postal="K2C0P7" />
-  <marker name="Peterborough Chapter" lat="44.311082" lng="-78.340724" type="Office" address="610 Parkhill Road West" address2="" city="Peterborough" state="ON" postal="K9J6N6" />
-  <marker name="Sarnia Lamboton Chapter" lat="42.984492" lng="-82.386042" type="Office" address="420 East Street N" address2="" city="Sarnia" state="ON" postal="N7T6Y5" />
-  <marker name="Scarborough Chapter" lat="43.740464" lng="-79.282997" type="Office" address="25 Crouse Road" address2="PO Box 6072" city="Scarborough" state="ON" postal="M1R5P8"></marker>
-  <marker name="Simcoe County Chapter" lat="43.654991" lng="-79.389134" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
-  <marker name="Niagara Peninsula Chapter of Hope" lat="43.182485" lng="-79.222305" type="Office" address="479D Carleton Street" address2="" city="St. Catherine's" state="ON" postal="L2M4Y6"></marker>
-  <marker name="Sudbury Chapter" lat="46.486775" lng="-80.912348" type="Office" address="2750 Bancroft Drive" address2="" city="Sudbury" state="ON" postal="P3B1T9" />
-  <marker name="Thunder Bay Chapter" lat="48.382627" lng="-89.247734" type="Office" address="501-101 N. Synidcate Avenue" address2="Chapples Building, fifth floor" city="Thunder Bay" state="ON" postal="P7C3V4" />
-  <marker name="Waterloo District Chapter" lat="43.437308" lng="-80.504367" type="Office" address="35 Belmont Ave W" address2="" city="Kitchener" state="ON" postal="N2M1L2" />
-  <marker name="Wellington County Chapter" lat="43.570699" lng="-80.283205" type="Office" address="5420 Highway 6 North" address2="RR 5" city="Guelph" state="ON" postal="N1H6J2"></marker>
-  <marker name="Markham/Stouffvile Chapter" lat="43.863219" lng="-79.304820" type="Office" address="4630 Highway 7" address2="PO Box 64614" city="Unionville" state="ON" postal="L3R0M9" />
-  <marker name="York South Chapter" lat="43.855819" lng="-79.436664" type="Office" address="9350 Yonge Street" address2="PO Box 61528" city="Richmond Hill" state="ON" postal="L4C0C9" />
-  <marker name="York North Chapter" lat="44.067713" lng="-79.432310" type="Office" address="7-17655 Leslie St" address2="" city="Newmarket" state="ON" postal="L3Y3E1" />
-  <marker name="Manitoba Division" lat="49.837168" lng="-97.170097" type="Office" address="100-1465 Buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
-  <marker name="Westman Chapter" lat="49.842675" lng="-99.949861" type="Office" address="Unit 5B-457 9th St" address2="" city="Brandon" state="MB" postal="R7A4A9" />
-  <marker name="South Central Chapter" lat="49.836678" lng="-97.169019" type="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
-  <marker name="Parkland Chapter" lat="51.151616" lng="-100.053550" type="Office" address="Unit B1 101 1st Ave NW" address2="" city="Dauphin" state="MB" postal="R7N1G8" />
-  <marker name="South East Chapter" lat="49.837156" lng="-97.169920" type="Office" address="100-1465 Buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
-  <marker name="Saskatchewan Division" lat="50.476260" lng="-104.618219" type="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2" />
-  <marker name="Battleford Chapter" lat="52.778919" lng="-108.295945" type="Office" address="106-1442 102nd St" address2="" city="North battleford" state="SK" postal="S9A1G7"></marker>
-  <marker name="Regina Chapter" lat="50.476288" lng="-104.618209" type="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2" />
-  <marker name="Saskatoon Chapter" lat="52.151418" lng="-106.662703" type="Office" address="Bay22 - 1738 Quebec Ave" address2="" city="Saskatoon" state="SK" postal="S7K1V9" />
-  <marker name="Alberta and Northwest Territories Division" lat="53.533256" lng="-113.418525" type="Office" address="150-9405 50 St" address2="" city="Edmonton" state="AB" postal="T6B2T4" />
-  <marker name="Lakeland Regional Office" lat="53.986604" lng="-111.284738" type="Office" address="110-464745 45 Avenue" address2="" city="St. Paul" state="AB" postal="T0A3A0" />
-  <marker name="West Yellowhead Regional Office" lat="53.411247" lng="-117.564977" type="Office" address="821 Switzer Drive" address2="" city="Hinton" state="AB" postal="T7V1V1" />
-  <marker name="Calgary and Area Chapter" lat="50.963105" lng="-114.009293" type="Office" address="150-110 Quarry Park Blvd SE" address2="" city="Calgary" state="AB" postal="T2C3G3" />
-  <marker name="Central Alberta Chapter" lat="52.267732" lng="-113.813923" type="Office" address="105 4807 50 st" address2="" city="Red Deer" state="AB" postal="T4N4A5" />
-  <marker name="Edmonton and Capital Region Chapter" lat="53.533268" lng="-113.418504" type="Office" address="150-9405 50 St" address2="" city="Edmonton" state="AB" postal="T6B2T4" />
-  <marker name="Lethbridge and District Chapter" lat="49.710285" lng="-112.824603" type="Office" address="724 13 St N" address2="" city="Lethbridge" state="AB" postal="T1H2T1" />
-  <marker name="Lloydminster Chapter" lat="53.278031" lng="-110.009599" type="Office" address="4419 52 Ave" address2="" city="Lloydminster" state="AB" postal="T9V0Y8" />
-  <marker name="Southeastern Alberta Chapter" lat="50.027011" lng="-110.669079" type="Office" address="101 1201 Kingsway Avenue SE" city="Medicine Hat" state="AB" postal="T1A2Y2" />
-  <marker name="South Peace Regional Office" lat="55.179723" lng="-118.794640" type="Office" address="Genland Building" address2="103-10901 100 St" city="Grande Prairie" state="AB" postal="T8V2M9" />
-  <marker name="BC and Yukon Division" lat="49.227853" lng="-123.000285" type="Office" address="1103-4720 Kingsway" address2="Metrotower II" city="Burnaby" state="BC" postal="V5H4N2" />
-  <marker name="South Vancouver Island" lat="48.429931" lng="-123.355183" type="Office" address="1004 North Park St" address2="" city="Victoria" state="BC" postal="V8T1C6" />
-  <marker name="North Peace Chapter" lat="49.231017" lng="-123.007605" type="Office" address="1501-4330 Kingsway" address2="" city="Burnaby" state="BC" postal="V5H4G7" />
-  <marker name="Kamloops and Area Chapter" lat="50.674580" lng="-120.334529" type="Office" address="1-273 Seymour St" address2="" city="Kamloops" state="BC" postal="V2C2E7" />
-  <marker name="Okanagan Chapter" lat="49.879688" lng="-119.458017" type="Office" address="230-1855 Kirschner Rd" address2="" city="Kelowna" state="BC" postal="V1Y4N7" />
-  <marker name="Lower Mainland Chapter" lat="49.227846" lng="-123.000188" type="Office" address="1103-4720 Kingsway" address2="Metrotower II" city="Burnaby" state="BC" postal="V5H4N2" />
-  <marker name="South Okanagan Chapter" lat="49.457597" lng="-119.587182" type="Office" address="3373 Shaha Lake Road" address2="" city="Penticton" state="BC" postal="V2A6G6" />
-  <marker name="Prince George Chapter" lat="53.915682" lng="-122.747171" type="Office" address="105 490 Quebec St" address2="" city="Prince George" state="BC" postal="V2L5N5" />
-  <marker name="Central Island Chapter" lat="49.155326" lng="-123.950964" type="Office" address="702-530 5th St" address2="Box 390406" city="Nanaimo" state="BC" postal="V9R7B7" />
-  <marker name="South and Central Vancouver Island Chapter" lat="48.429959" lng="-123.355248" type="Office" address="1004 North Park St" address2="" city="Victoria" state="BC" postal="V8T1C6" />
+  <marker name="National Office" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
+  <marker name="Atlantic Division" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="Annapolis Valley" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="Halifax Regional Municipality" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="Fredericton and Area Chapter" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="Restigouche" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="St. John's" type="Office" address="109 Ilsley Avenue" address2="Suite 1" city="Dartmouth" state="NS" postal="B3B1S8" />
+  <marker name="Division du Québec" type="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
+  <marker name="Banline-Ouest" type="Office" address="3869 boul. des Sources" address2="bureau 204" city="Dollard-des-Ormeaux" state="QC" postal="H9B2A2" />
+  <marker name="Centre-du-Québec" type="Office" address="450 Hériot" address2="" city="Drummonville" state="QC" postal="J2B1B5" />
+  <marker name="Côte-Nord" type="Office" address="652, av. DeQuen" address2="" city="Sept-Iles" state="QC" postal="G4R2R5" />
+  <marker name="Estrie-Sherbrooke" type="Office" address="550, rue Sherbrooke Ouest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
+  <marker name="Granby et régions" type="Office" address="939 Rue Cowie" address2="" city="Granby" state="QC" postal="J2J1A3" />
+  <marker name="Lac-St-Jean" type="Office" address="1230, boul. Wallberg" address2="Bureau 307" city="Dolbeau-Mistassini" state="QC" postal="G8L1H2" />
+  <marker name="Laurentides/Hautes-Laurentides" type="Office" address="416 St-Georges" address2="" city="St-Jérôme" state="QC" postal="J7Z5B1" />
+  <marker name="Laval" type="Office" address="387, boul. des Prairies" address2="Bureau 210" city="Laval" state="QC" postal="H7N5B1" />
+  <marker name="Manicouagan" type="Office" address="217-A boulevard LaSalle" address2="" city="Baie-Comeau" state="QC" postal="G4Z1S7" />
+  <marker name="Mauricie" type="Office" address="109, rue Brunelle" address2="" city="Trois-Rivières" state="QC" postal="G8T6A3" />
+  <marker name="Montérégie" type="Office" address="1705 Avenue Victoria" address2="Bureau C-121" city="St-Lambert" state="QC" postal="J4R2T7" />
+  <marker name="Montréal" type="Office" address="550, rue Sherbrooke Quest" address2="Tour Est, bureau 1010" city="Montréal" state="QC" postal="H3A1B9" />
+  <marker name="Outaouais" type="Office" address="10, rue Noël" address2="Bureau 109" city="Gatineau" state="QC" postal="J8Z3G5"></marker>
+  <marker name="Région-de-Québec" type="Office" address="245 rue Soumande" address2="Bureau 202" city="Quebec" state="QC" postal="G1M3H6" />
+  <marker name="Lanaudière" type="Office" address=" 2500 boul. Mascouche" address2="Bureau 221" city="Mascouche" state="QC" postal="J7K0H5" />
+  <marker name="Saguenay" type="Office" address="150, rue Pinel" address2="Pavillon Roland-Saucier" city="Chicoutimi" state="QC" postal="G7G3N8" />
+  <marker name="Saint-Hyacinthe - Acton" type="Office" address="16675 Desrochers" address2="" city="Saint-Hyacinthe" state="QC" postal="J2T3K3" />
+  <marker name="Sorel-Tracy" type="Office" address="189, rue du Prince" address2="Bureau 211" city="Sorel" state="QC" postal="J3P4K6" />
+  <marker name="Chaudière-Appalaches" type="Office" address="104-4060 boul de la Rive-Sud" address2="" city="Lévis" state="QC" postal="G6W6N2" />
+  <marker name="Est de Montréal" type="Office" address="12125 Notre-Dame Est" address2="B. 309" city="Montréal" state="QC" postal="H1B2Y9"></marker>
+  <marker name="Ontario and Nunavut Division" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
+  <marker name="Brampton and Caledon Chapter" type="Office" address="40 Finchgate Blvd" address2="Suite 106" city="Brampton" state="ON" postal="L6T3J1" />
+  <marker name="Bruce County Unit" type="Office" address="38 Birchwood Avenue" address2="" city="Tiverton" state="ON" postal="N0G2T0" />
+  <marker name="Cambridge Unit" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
+  <marker name="Timmins Chapter" type="Office" address="273 Third Ave Suite 401A" address2="PO Box 1101" city="Timmins" state="ON" postal="P4N7H9" />
+  <marker name="Cornwall and District Chapter" type="Office" address="1-275 Boundary Rd" address2="Attn: Karen Torrie-Racine" city="Cornwall" state="ON" postal="K6H6K8" />
+  <marker name="Durham regional Chapter" type="Office" address="6-400 Dundas St W" address2="" city="Whitby" state="ON" postal="L1N2M7" />
+  <marker name="Windsor-Essex Chapter" type="Office" address="1168 Drouillard Rd" address2="Suite A" city="Windsor" state="ON" postal="N8Y2R1" />
+  <marker name="Halton Regional Chapter" type="Office" address="2016 Victoria Avenue" address2="" city="Burlington" state="ON" postal="L7R1R4"></marker>
+  <marker name="Hamilton Chapter" type="Office" address="94 Cannon Street" address2="Unit 5" city="Hamilton" state="ON" postal="L8R2B6" />
+  <marker name="Hastings County Chapter" type="Office" address="390 North Front Street" address2="Box 23132" city="Belleville" state="ON" postal="K8P3E1"></marker>
+  <marker name="Kapusking Unit" type="Office" address="115 Brunelle Road North" address2="" city="Kapuskasing" state="ON" postal="P5N2M1"></marker>
+  <marker name="Forntenac, Lennox and Addington Chapter" type="Office" address="637 Norris Court" address2="Unit 3" city="Kingston" state="ON" postal="K7P2R9" />
+  <marker name="Leeds Grenville Chapter" type="Office" address="102-51 King Street East" address2="P.O. Box 815" city="Brockville" state="ON" postal="K6V2R9" />
+  <marker name="London/Middlesex Chapter" type="Office" address="21 Grosvenor St" address2="Rm: W018A" city="London" state="ON" postal="N6A4V2" />
+  <marker name="Toronto Chapter" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
+  <marker name="Mississauga Chapter" type="Office" address="875 Enola Avenue" address2="" city="Mississauga" state="ON" postal="L5G4R1" />
+  <marker name="Niagara LAMS" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T1Z5" />
+  <marker name="Ottawa Chapter" type="Office" address="1826 Woodward Drive" address2="" city="Ottawa" state="ON" postal="K2C0P7" />
+  <marker name="Peterborough Chapter" type="Office" address="610 Parkhill Road West" address2="" city="Peterborough" state="ON" postal="K9J6N6" />
+  <marker name="Sarnia Lamboton Chapter" type="Office" address="420 East Street N" address2="" city="Sarnia" state="ON" postal="N7T6Y5" />
+  <marker name="Scarborough Chapter" type="Office" address="25 Crouse Road" address2="PO Box 6072" city="Scarborough" state="ON" postal="M1R5P8"></marker>
+  <marker name="Simcoe County Chapter" type="Office" address="250 Dundas St W" address2="Suite 500" city="Toronto" state="ON" postal="M5T2Z5" />
+  <marker name="Niagara Peninsula Chapter of Hope" type="Office" address="479D Carleton Street" address2="" city="St. Catherine's" state="ON" postal="L2M4Y6"></marker>
+  <marker name="Sudbury Chapter" type="Office" address="2750 Bancroft Drive" address2="" city="Sudbury" state="ON" postal="P3B1T9" />
+  <marker name="Thunder Bay Chapter" type="Office" address="501-101 N. Synidcate Avenue" address2="Chapples Building, fifth floor" city="Thunder Bay" state="ON" postal="P7C3V4" />
+  <marker name="Waterloo District Chapter" type="Office" address="35 Belmont Ave W" address2="" city="Kitchener" state="ON" postal="N2M1L2" />
+  <marker name="Wellington County Chapter" type="Office" address="5420 Highway 6 North" address2="RR 5" city="Guelph" state="ON" postal="N1H6J2"></marker>
+  <marker name="Markham/Stouffvile Chapter" type="Office" address="4630 Highway 7" address2="PO Box 64614" city="Unionville" state="ON" postal="L3R0M9" />
+  <marker name="York South Chapter" type="Office" address="9350 Yonge Street" address2="PO Box 61528" city="Richmond Hill" state="ON" postal="L4C0C9" />
+  <marker name="York North Chapter" type="Office" address="7-17655 Leslie St" address2="" city="Newmarket" state="ON" postal="L3Y3E1" />
+  <marker name="Manitoba Division" type="Office" address="100-1465 Buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
+  <marker name="Westman Chapter" type="Office" address="Unit 5B-457 9th St" address2="" city="Brandon" state="MB" postal="R7A4A9" />
+  <marker name="South Central Chapter" type="Office" address="100-1465 buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
+  <marker name="Parkland Chapter" type="Office" address="Unit B1 101 1st Ave NW" address2="" city="Dauphin" state="MB" postal="R7N1G8" />
+  <marker name="South East Chapter" type="Office" address="100-1465 Buffalo Place" address2="" city="Winnipeg" state="MB" postal="R3T1L8" />
+  <marker name="Saskatchewan Division" type="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2" />
+  <marker name="Battleford Chapter" type="Office" address="106-1442 102nd St" address2="" city="North battleford" state="SK" postal="S9A1G7"></marker>
+  <marker name="Regina Chapter" type="Office" address="150 Albert St" address2="" city="Regina" state="SK" postal="S4R2N2" />
+  <marker name="Saskatoon Chapter" type="Office" address="Bay22 - 1738 Quebec Ave" address2="" city="Saskatoon" state="SK" postal="S7K1V9" />
+  <marker name="Alberta and Northwest Territories Division" type="Office" address="150-9405 50 St" address2="" city="Edmonton" state="AB" postal="T6B2T4" />
+  <marker name="Lakeland Regional Office" type="Office" address="110-464745 45 Avenue" address2="" city="St. Paul" state="AB" postal="T0A3A0" />
+  <marker name="West Yellowhead Regional Office" type="Office" address="821 Switzer Drive" address2="" city="Hinton" state="AB" postal="T7V1V1" />
+  <marker name="Calgary and Area Chapter" type="Office" address="150-110 Quarry Park Blvd SE" address2="" city="Calgary" state="AB" postal="T2C3G3" />
+  <marker name="Central Alberta Chapter" type="Office" address="105 4807 50 st" address2="" city="Red Deer" state="AB" postal="T4N4A5" />
+  <marker name="Edmonton and Capital Region Chapter" type="Office" address="150-9405 50 St" address2="" city="Edmonton" state="AB" postal="T6B2T4" />
+  <marker name="Lethbridge and District Chapter" type="Office" address="724 13 St N" address2="" city="Lethbridge" state="AB" postal="T1H2T1" />
+  <marker name="Lloydminster Chapter" type="Office" address="4419 52 Ave" address2="" city="Lloydminster" state="AB" postal="T9V0Y8" />
+  <marker name="Southeastern Alberta Chapter" type="Office" address="101 1201 Kingsway Avenue SE" city="Medicine Hat" state="AB" postal="T1A2Y2" />
+  <marker name="South Peace Regional Office" type="Office" address="Genland Building" address2="103-10901 100 St" city="Grande Prairie" state="AB" postal="T8V2M9" />
+  <marker name="BC and Yukon Division" type="Office" address="1103-4720 Kingsway" address2="Metrotower II" city="Burnaby" state="BC" postal="V5H4N2" />
+  <marker name="South Vancouver Island" type="Office" address="1004 North Park St" address2="" city="Victoria" state="BC" postal="V8T1C6" />
+  <marker name="North Peace Chapter" type="Office" address="1501-4330 Kingsway" address2="" city="Burnaby" state="BC" postal="V5H4G7" />
+  <marker name="Kamloops and Area Chapter" type="Office" address="1-273 Seymour St" address2="" city="Kamloops" state="BC" postal="V2C2E7" />
+  <marker name="Okanagan Chapter" type="Office" address="230-1855 Kirschner Rd" address2="" city="Kelowna" state="BC" postal="V1Y4N7" />
+  <marker name="Lower Mainland Chapter" type="Office" address="1103-4720 Kingsway" address2="Metrotower II" city="Burnaby" state="BC" postal="V5H4N2" />
+  <marker name="South Okanagan Chapter" type="Office" address="3373 Shaha Lake Road" address2="" city="Penticton" state="BC" postal="V2A6G6" />
+  <marker name="Prince George Chapter" type="Office" address="105 490 Quebec St" address2="" city="Prince George" state="BC" postal="V2L5N5" />
+  <marker name="Central Island Chapter" type="Office" address="702-530 5th St" address2="Box 390406" city="Nanaimo" state="BC" postal="V9R7B7" />
+  <marker name="South and Central Vancouver Island Chapter" type="Office" address="1004 North Park St" address2="" city="Victoria" state="BC" postal="V8T1C6" />
 </markers>
