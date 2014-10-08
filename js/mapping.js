@@ -60,10 +60,15 @@ function initialize() {
 		icon: image,
 	});
 	
-	google.maps.event.addListener(marker, "click", function(){
-		thisMap.panTo(marker.getPosition());
+	google.maps.event.addListener(marker, "click", function(){		
+		var locationInfo;
+		map.panTo(marker.getPosition());
+		
+		locationInfo = "<div><h3>" + info[0] + "</h3><p>" + info[3] + ", " + info[5] + "<br>" + info[6] + ", " + info[7] + "<br>" + info[8] + "</p></div>";
+		
+		information.setContent(locationInfo);
+		information.open(map, marker);	
 	});
-	
 	return marker;
  }
  
