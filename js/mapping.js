@@ -45,12 +45,10 @@ function initialize() {
 	
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
 	var markerImage = 'images/pinother.png';
-	
-	for (var j = 0; j <= locations.length; j++){
-		markerFactory(locations[j][1], locations[j][2], map, markerImage);
+	for (var j = 0; j < locations.length; j++){
+		markers[j] = markerFactory(locations[j][1], locations[j][2], map, markerImage);
 	}
-	
-	console.log("MS Office mapping complete.");
+	console.log("MS Office mapping complete. Length of markers array: " + markers.length);
  }
 
  //A function that creates a marker on the map
@@ -61,6 +59,12 @@ function initialize() {
 		map: thisMap,
 		icon: image,
 	});
+	
+	google.maps.event.addListener(marker, "click", function(){
+		thisMap.panTo(marker.getPosition());
+	});
+	
+	return marker;
  }
  
  //CRM inputs address
