@@ -1,8 +1,8 @@
 //global variable declarations
+var information = new google.maps.InfoWindow();
 var locations = [];
 var markers = [];
 var map;
-
 //retrieve office location information when the webpage is loaded
 window.onload = function load(){
 	$.ajax({
@@ -50,7 +50,6 @@ function initialize() {
 
  //A function that creates a marker on the map
  function markerFactory(info, thisMap, image){
-	var information = new google.maps.InfoWindow();
 	var latLng = new google.maps.LatLng(info[1], info[2]);
 	var marker = new google.maps.Marker({
 		position: latLng,
@@ -64,7 +63,6 @@ function initialize() {
 		map.panTo(marker.getPosition());
 		
 		locationInfo = "<div><h3>" + info[0] + "</h3><p>" + info[3] + ", " + info[5] + "<br>" + info[6] + ", " + info[7] + "<br>" + info[8] + "</p></div>";
-		
 		information.setContent(locationInfo);
 		information.open(map, marker);
 	});
