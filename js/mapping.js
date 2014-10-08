@@ -72,7 +72,7 @@ function initialize() {
   
  //CRM inputs address
  function submitAddress() {
-	var address = document.getElementById('input').value; //to be replaced by CRM information
+	var address = document.getElementById('input').value; //to be replaced with CRM information
 	var geocoder = new google.maps.Geocoder();
 
 	geocoder.geocode({'address': address}, function(results, status){
@@ -85,12 +85,11 @@ function initialize() {
 			var state = results[0].address_components[4].long_name;
 			var postal = results[0].address_components[6].long_name;
 			var markerImage = 'images/home.png';
-			
+
 			var passOver = [name, lat, lng, name, type, "", city, state, postal];
 			map.setCenter(new google.maps.LatLng(lat, lng));
 			map.setZoom(12);
 			markerFactory(passOver, map, markerImage);
-			console.log(results);
 		}
 		else {
 			alert("Error: " + status);
