@@ -1,10 +1,11 @@
 //global variable declarations
-var information = new google.maps.InfoWindow();
-var locations = [];
-var userLocation;
-var markers = [];
+var information = new google.maps.InfoWindow();		//pop-up box in Google Maps to display location information
+var locations = [];									//2D array used to store MS Society office locations
+var userLocation;									//to store user input location
+var markers = [];									//an array to store pins used to display the MS Society office locations
 var map;
-//retrieve office location information when the webpage is loaded
+
+//This function retrieves office location information from an xml file when the webpage is loaded using jQuery
 window.onload = function load(){
 	$.ajax({
 		type: "GET",
@@ -12,6 +13,8 @@ window.onload = function load(){
 		dataType: "xml",
 		success: function(xml){
 			var i = 0;
+			
+			//loop through the xml file, parsing the data into the 'locations' array
 			$(xml).find('marker').each(function(){
 				var name = $(this).attr('name');
 				var lat = $(this).attr('lat');
@@ -22,6 +25,8 @@ window.onload = function load(){
 				var city = $(this).attr('city');
 				var state = $(this).attr('state');
 				var postal = $(this).attr('postal');
+				
+				//Storing office information. Each row consists of office information. Each column is a different office
 				locations[i] = new Array(name, lat, lng, address, type, address2, city, state, postal);
 
 				i++;
@@ -32,7 +37,7 @@ window.onload = function load(){
 	});
 }
 
-//set up google maps, updating map with MS Society Office locations
+//This function sets up the google map, updating map with MS Society Office locations using the latitude and longitude information
 function initialize() {
 	var myLatlng = new google.maps.LatLng(53.854234, -97.318359);
 	var mapOptions = {
@@ -42,14 +47,17 @@ function initialize() {
         mapTypeId:google.maps.MapTypeId.ROADMAP
     }
 	
+	//initializing map
 	map = new google.maps.Map(document.getElementById("map"), mapOptions);
 	var markerImage = 'images/pinother.png';
-	for (var j = 0; j < locations.length; j++){
+	
+	//passing each office information through the marker factory, returning the marker and storing it into an array
+	for (var j = 0; j < locations.length; j++)
 		markers[j] = markerFactory(locations[j], map, markerImage, true);
-	}
+	
 }
 
- //A function that creates a marker on the map
+ //This function takes the office information and returns a google map marker. In the process, it will place the marker onto the map.
  function markerFactory(info, thisMap, image, isXml){
 	var latLng = new google.maps.LatLng(info[1], info[2]);
 	var marker = new google.maps.Marker({
@@ -59,11 +67,12 @@ function initialize() {
 		title: info[0],
 	});
 	
+	//This event listener displays the proper office information or client's address when the marker is clicked
 	google.maps.event.addListener(marker, "click", function(){		
 		var locationInfo;
 		map.panTo(marker.getPosition());
 		
-		locationInfo = (isXml == true) ? ("<div><h3>" + info[0] + "</h3><p>" + info[3] + ", " + info[5] + "<br>" + info[6] + ", " + info[7] + "<br>" + info[8] + "</p></div>") : 
+		locationInfo = (isXml === true) ? ("<div><h3>" + info[0] + "</h3><p>" + info[3] + ", " + info[5] + "<br>" + info[6] + ", " + info[7] + "<br>" + info[8] + "</p></div>") : 
 			"<div><h3>" + info[0] + "</h3></div>";
 		information.setContent(locationInfo);
 		information.open(map, marker);
@@ -72,11 +81,13 @@ function initialize() {
 	return marker;
  }
   
- //CRM inputs address
+//This function fetches the address information of the client from the CRM, then uses the Geocoder to determine
+//the longitude and latitude information, then places a marker on the google map.
  function submitAddress() {
 	var address = document.getElementById('input').value; //to be replaced with CRM information. Must contain address, city, and province
 	var geocoder = new google.maps.Geocoder();
-
+	
+	//converts address to latitude and longitude
 	geocoder.geocode({'address': address}, function(results, status){
 		if (status == google.maps.GeocoderStatus.OK) {
 			var name = results[0].formatted_address;
