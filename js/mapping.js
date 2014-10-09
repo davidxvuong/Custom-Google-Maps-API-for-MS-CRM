@@ -84,8 +84,6 @@ function initialize() {
 			var lng = results[0].geometry.location.B;
 			var markerImage = 'images/home.png';
 			
-			console.log(name)
-			
 			var passOver = [name, lat, lng];
 			map.setCenter(new google.maps.LatLng(lat, lng));
 			map.setZoom(12);
