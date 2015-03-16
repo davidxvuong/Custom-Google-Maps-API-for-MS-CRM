@@ -54,8 +54,8 @@ function initialize() {
 	//passing each office information through the marker factory, returning the marker and storing it into an array
 	for (var j = 0; j < locations.length; j++)
 		markers[j] = markerFactory(locations[j], map, markerImage, true);
-	
 }
+
 google.maps.event.addDomListener(window, 'load', initialize);
 
  //This function takes the office information and returns a google map marker. In the process, it will place the marker onto the map.
