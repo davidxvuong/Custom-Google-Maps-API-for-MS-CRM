@@ -92,11 +92,10 @@ google.maps.event.addDomListener(window, 'load', initialize);
  function submitAddress() {
 	var address = document.getElementById('input').value; //to be replaced with CRM information. Must contain address, city, and province
 	var geocoder = new google.maps.Geocoder();
-	console.log("Address " + address);
+	
 	//converts address to latitude and longitude
 	geocoder.geocode({'address': address}, function(results, status){
 		if (status == google.maps.GeocoderStatus.OK) {
-			console.log("Geocode succeeded");
 			var name = results[0].formatted_address;
 			var lat = results[0].geometry.location.A;
 			var lng = results[0].geometry.location.F;
@@ -106,8 +105,6 @@ google.maps.event.addDomListener(window, 'load', initialize);
 			map.setCenter(new google.maps.LatLng(lat, lng));
 			map.setZoom(12);
 			userLocation = markerFactory(passOver, map, markerImage, false);
-			console.log("Display map completed");
-			console.log(results);
 		}
 		else {
 			alert("Error: " + status);
