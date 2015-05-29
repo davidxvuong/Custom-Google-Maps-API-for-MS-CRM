@@ -94,7 +94,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	var geocoder = new google.maps.Geocoder();
 	
 	//converts address to latitude and longitude
-	geocoder.geocode({'address': address}, function(results, status){
+	geocoder.geocode({'address': address, componentRestrictions: {country: 'Canada'}}, function(results, status){
 		if (status == google.maps.GeocoderStatus.OK) {
 			var name = results[0].formatted_address;
 			var lat = results[0].geometry.location.A;
