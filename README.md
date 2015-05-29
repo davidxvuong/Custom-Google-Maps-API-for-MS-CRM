@@ -1,5 +1,5 @@
 # Custom Google Maps for Microsoft Dynamics CRM
-
+To see a working copy, [click here](http://davidvuong.ca/MicrosoftDynamicsCRMCustomMap/)
 ##Motivation
 
 At the MS Society of Canada, the Client Services team uses a piece of software called the [Microsoft Dynamics CRM](https://www.microsoft.com/en-us/dynamics/crm.aspx).The team uses this software to track down the amount of funding for equipment for patients suffering from Multiple Sclerosis.
