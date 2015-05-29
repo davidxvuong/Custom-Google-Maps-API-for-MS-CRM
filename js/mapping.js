@@ -33,6 +33,7 @@ window.onload = function load(){
 			});
 			
 			initialize();
+
 		}
 	});
 }
@@ -54,9 +55,10 @@ function initialize() {
 	//passing each office information through the marker factory, returning the marker and storing it into an array
 	for (var j = 0; j < locations.length; j++)
 		markers[j] = markerFactory(locations[j], map, markerImage, true);
-}
-
+	
+	
 google.maps.event.addDomListener(window, 'load', initialize);
+}
 
  //This function takes the office information and returns a google map marker. In the process, it will place the marker onto the map.
  function markerFactory(info, thisMap, image, isXml){
@@ -73,8 +75,11 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		var locationInfo;
 		map.panTo(marker.getPosition());
 		
+		var data = info[0].split(",");
+		
 		locationInfo = (isXml === true) ? ("<div><h3>" + info[0] + "</h3><p>" + info[3] + ", " + info[5] + "<br>" + info[6] + ", " + info[7] + "<br>" + info[8] + "</p></div>") : 
-			"<div><h3>" + info[0] + "</h3></div>";
+			"<div><h3>" + data[0] + "</h3><p>" + data[1] + ", " + data[2] + "<br>" + data[3] + "</div>";
+		console.log(data);
 		information.setContent(locationInfo);
 		information.open(map, marker);
 	});
@@ -87,19 +92,22 @@ google.maps.event.addDomListener(window, 'load', initialize);
  function submitAddress() {
 	var address = document.getElementById('input').value; //to be replaced with CRM information. Must contain address, city, and province
 	var geocoder = new google.maps.Geocoder();
-	
+	console.log("Address " + address);
 	//converts address to latitude and longitude
 	geocoder.geocode({'address': address}, function(results, status){
 		if (status == google.maps.GeocoderStatus.OK) {
+			console.log("Geocode succeeded");
 			var name = results[0].formatted_address;
-			var lat = results[0].geometry.location.k;
-			var lng = results[0].geometry.location.B;
+			var lat = results[0].geometry.location.A;
+			var lng = results[0].geometry.location.F;
 			var markerImage = 'images/home.png';
 			
 			var passOver = [name, lat, lng];
 			map.setCenter(new google.maps.LatLng(lat, lng));
 			map.setZoom(12);
 			userLocation = markerFactory(passOver, map, markerImage, false);
+			console.log("Display map completed");
+			console.log(results);
 		}
 		else {
 			alert("Error: " + status);
